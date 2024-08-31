@@ -7,7 +7,7 @@ sudo apt install curl unzip
 
 ```
 
-2.Download the latest version of the AWS CLI from Amazon's servers:
+2. Download the latest version of the AWS CLI from Amazon's servers: hdwug
 
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
@@ -30,5 +30,5 @@ sudo ./aws/install
 ```
 access_key:
 secret_key:
-
+ 
 ```
